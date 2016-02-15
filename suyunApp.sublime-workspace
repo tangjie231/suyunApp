@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"cwm	React: componentWillMount: fn() { ... }"
+			],
+			[
+				"back",
+				"backIcon"
+			],
+			[
+				"A",
+				"Actions"
+			],
+			[
+				"bid",
+				"bidDetail"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"R",
+				"Route"
+			],
+			[
+				"Rout",
+				"Route"
+			],
+			[
+				"vip",
+				"vipFluxApp"
+			],
+			[
+				"vi",
+				"vipFluxApp"
+			],
+			[
+				"rcc",
+				"rcc	React: class component"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"se",
+				"sectionID"
+			],
+			[
+				"close",
+				"closeSwipe"
+			],
+			[
+				"swipe",
+				"swipeClose"
+			],
+			[
+				"_",
+				"_onSwipeOpen"
+			],
+			[
+				"margin",
+				"marginBottom"
+			],
+			[
+				"sy",
+				"style"
+			],
+			[
+				"List",
+				"ListItem"
+			],
+			[
+				"ri",
+				"rightBts"
+			],
+			[
+				"a",
+				"AlertIOS"
+			],
+			[
+				"Bid",
+				"BidDetail"
+			],
+			[
+				"T",
+				"TouchableHighlight"
+			],
+			[
+				"p",
+				"props	React: this.props"
+			],
+			[
+				"g",
+				"gdp	React: getDefaultProps: fn() { return {...} } "
+			],
+			[
+				"setS",
+				"setState"
+			],
+			[
+				"po",
+				"photoSource"
+			],
+			[
+				"state",
+				"state	React: this.state."
+			],
+			[
+				"cd",
+				"cdm	React: componentDidMount: fn() { ... }"
+			],
+			[
+				"font",
+				"fontWeight"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"section",
+				"sectionData"
+			],
+			[
+				"_ren",
+				"_rendenHeader"
+			],
+			[
+				"f",
+				"fruit"
+			],
+			[
+				"rowId",
+				"rowIDs"
+			],
+			[
+				"fle",
+				"flexDirection"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"sele",
+				"selectTab"
+			],
+			[
+				"Login",
+				"LoginForm"
+			],
+			[
+				"style",
+				"styles"
+			],
+			[
+				"h",
+				"Header"
+			],
+			[
+				"S",
+				"styles"
+			],
+			[
+				"Lo",
+				"LoginForm"
+			],
+			[
+				"lo",
+				"LoginForm"
+			],
+			[
+				"stat",
+				"state	React: this.state."
+			],
+			[
+				"base",
+				"base64Icon"
+			],
+			[
+				"ref",
+				"refs	React: this.refs."
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"r",
+				"require"
+			],
+			[
+				"N",
+				"NavigatorIOS"
+			],
+			[
+				"crea",
+				"createClass"
+			],
+			[
+				"l",
+				"lineCenter"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"flex",
+				"flexApp"
+			],
+			[
+				"bor",
+				"borderWidth"
+			],
+			[
+				"on",
+				"onDateChange"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Ap",
+				"AppRegistry"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Flux/vipFluxApp.js",
+			"settings":
+			{
+				"buffer_size": 921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Flux/views/bidDetail.js",
+			"settings":
+			{
+				"buffer_size": 3012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Flux/views/login.js",
+			"settings":
+			{
+				"buffer_size": 2648,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Flux/views/bidSelect.js",
+			"settings":
+			{
+				"buffer_size": 5420,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Flux/views/bidList.js",
+			"settings":
+			{
+				"buffer_size": 3818,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "key",
+		"selected_items":
+		[
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angu",
+				"AngularJS: Toggle - Enable data- Prefix"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"bing",
+				"Preferences: Key Bindings - Default"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"1+1",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tangjie/suyunApp",
+		"/Users/tangjie/suyunApp/Flux",
+		"/Users/tangjie/suyunApp/Flux/views"
+	],
+	"file_history":
+	[
+		"/Users/tangjie/suyunApp/node_modules/react/lib/ReactCompositeComponent.js",
+		"/Users/tangjie/suyunApp/index.ios.js",
+		"/Users/tangjie/suyunApp/Vip/vipFluxApp.js",
+		"/Users/tangjie/suyunApp/Vip/views/bidSelect.js",
+		"/Users/tangjie/suyunApp/Vip/views/login.js",
+		"/Users/tangjie/suyunApp/Vip/vipApp.js",
+		"/Users/tangjie/suyunApp/package.json",
+		"/Users/tangjie/reactProject/package.json",
+		"/Users/tangjie/reactProject/Vip/views/login.js",
+		"/Users/tangjie/reactProject/Vip/views/bidPublish.js",
+		"/Users/tangjie/reactProject/Vip/views/bidList.js",
+		"/Users/tangjie/reactProject/Vip/views/header.js",
+		"/Users/tangjie/reactProject/Nearby/flexApp.js",
+		"/Users/tangjie/reactProject/Vip/views/bidDetail.js",
+		"/Users/tangjie/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tangjie/reactProject/node_modules/react/lib/CallbackQueue.js",
+		"/Users/tangjie/reactProject/Vip/views/index.js",
+		"/Users/tangjie/reactProject/Vip/vipApp.js",
+		"/Users/tangjie/reactProject/node_modules/react/lib/ReactErrorUtils.js",
+		"/Users/tangjie/reactProject/node_modules/react-native/Libraries/Components/Touchable/Touchable.js",
+		"/Users/tangjie/reactProject/index.ios.js",
+		"/Users/tangjie/reactProject/Nearby/index.js",
+		"/Users/tangjie/reactProject/node_modules/react/lib/ReactCompositeComponent.js",
+		"/Users/tangjie/reactProject/node_modules/react-native/Libraries/Text/Text.js",
+		"/Users/tangjie/reactProject/node_modules/react/lib/ReactPerf.js",
+		"/Users/tangjie/reactProject/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/require.js",
+		"/Users/tangjie/AwesomeProject/package.json",
+		"/Users/tangjie/Downloads/edgecontour.cpp",
+		"/Users/tangjie/IdeaProjects/2048/src/main/webapp/css/my.css",
+		"/Users/tangjie/IdeaProjects/2048/src/main/java/com/bj58/HelloController.java",
+		"/Users/tangjie/IdeaProjects/2048/src/main/webapp/js/comm/game.js",
+		"/Users/tangjie/IdeaProjects/2048/src/main/webapp/pages/index.html",
+		"/Users/tangjie/Downloads/AA24/\\325\\223\\211\\257\\316\\304\\320\\373/yao530@SexInSex.net \\311\\253\\326\\320\\311\\253\\265\\330\\326\\267\\312\\325\\262\\330.txt",
+		"/Users/tangjie/Downloads/elasticsearch-sql-1.4.4/pom.xml",
+		"/Users/tangjie/Downloads/未命名文件夹/注册码.txt",
+		"/Users/tangjie/Workspaces/bj/htjs/pom.xml",
+		"/Users/tangjie/Workspaces/bj/htjs/src/com/surekam/utils/ABCBankAspect.java",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/B3B04051-AEC4-4B3A-BF28-7D305A35552D/my.log",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/36779EF0-C11D-41CE-B52A-FBB5BB1BE3EA/my.log",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/F2E6D9B3-F4D1-4138-8C8C-E67119B34F37/my.log",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/1A6FEF6C-00EB-4373-98F5-6DFAEA7154CE/instance.properties",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/EC7810E1-6AFF-44CE-8FFE-8794172AAA82/canal.properties",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/CAB0420C-1BB6-4983-BA6F-368424B0218C/my.log",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/7FE055A6-8F89-4FDF-A8DC-47F160820C8E/instance.properties",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/9CB020D2-5576-4A61-A26E-422F8AF2103E/example.log",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/6F918306-FD3F-4D8D-8773-CDC630FE29A6/canal.log",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/E7D27E1D-7933-45CB-81A0-41256F77332C/my.log",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/424E794F-92EC-4929-ABC8-D90CFD0AC2CB/my.log",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/F7116D51-A7C8-4FD3-B705-379490B07DBB/mysql-bin.000005",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/CD3A76FB-4C87-4776-A516-D0FE611CB239/my.cnf",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/301BE424-4CF3-4D67-8EF4-E3B25237FA04/canal.properties",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/A4C1128D-9812-4BC0-B4AD-19BB9B57A462/instance.properties",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/F613C619-A793-49E4-8815-4D3085929027/file-instance.xml",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/C6E59011-EC38-4B5B-A1F3-66F5057AEDBE/instance.properties",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/CA2E202E-CF96-49C5-BEFA-3783F948B868/instance.properties",
+		"/Users/tangjie/IdeaProjects/nfs/generator/generator.xml",
+		"/Users/tangjie/Workspaces/bj/htjs/config/applicationContext.xml",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/AEFC7E7A-DF57-4CD2-BB2D-A2DD0C822EC4/canal.properties",
+		"/Users/tangjie/Workspaces/bj/htjs/generator/generator.bat",
+		"/Users/tangjie/instance.properties",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/9B36C283-4081-4F70-BC69-7B4EA0539534/canal.properties",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/98F3497C-C8ED-46B6-9F4C-E4CF8E5EEBDB/instance.properties",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/B64678FA-CD4D-4FDE-9B6D-D94646A0A596/instance.properties",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/757049D3-7DAB-4049-BC62-FDE3F53F220D/instance.properties",
+		"/Users/tangjie/Downloads/test.html",
+		"/Users/tangjie/Library/Caches/Cleanup At Startup/Transmit/A978B5EA-3D36-43E6-928E-BB7693C53EF5/instance.properties",
+		"/Users/tangjie/maven/apache-maven-3.1.0/conf/settings.xml",
+		"/Users/tangjie/dev/tomcat6/conf/server.xml",
+		"/Users/tangjie/Downloads/day06（UITableView）/代码/B01-汽车分组升级/B01-汽车分组升级/CZCarGroup.h",
+		"/Users/tangjie/Downloads/day06（UITableView）/代码/B01-汽车分组升级/B01-汽车分组升级/CZCarGroup.m",
+		"/Users/tangjie/Workspaces/ios/A-02应用管理/A-02应用管理/TJAppInfo.m",
+		"/Users/tangjie/Downloads/day03 (应用管理)/代码/A04-应用管理 (字典转模型)/A02-应用管理/ViewController.m",
+		"/Users/tangjie/Documents/test.html",
+		"/Users/tangjie/Downloads/day03 (应用管理)/代码/A03-应用管理 （生成3个子控件）/A02-应用管理/ViewController.m",
+		"/Users/tangjie/Workspaces/ios/A-02应用管理/A-02应用管理/app.plist",
+		"/Users/tangjie/Downloads/ebankService.xml"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    \n",
+			"Icon",
+			"CameraRoll",
+			"TabBarIOS.Item",
+			"Header",
+			"header",
+			"\n			",
+			"tcomb",
+			"move line",
+			"delete line",
+			"delete",
+			"		\n",
+			"         ref={WEBVIEW_REF}",
+			"onDateChange",
+			"AppRegistry",
+			"\n      ",
+			"!",
+			"><",
+			"!",
+			"amanze",
+			"mode",
+			"bin'd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/tangjie/suyunApp"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Flux/vipFluxApp.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								641,
+								641
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 4.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Flux/views/bidDetail.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2364,
+								2364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1302.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Flux/views/login.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Flux/views/bidSelect.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3823,
+								3823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Flux/views/bidList.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"game",
+				"src/main/webapp/js/comm/game.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
